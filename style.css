@@ -1,0 +1,66 @@
+h2 {
+    text-align: center ;
+}
+#image13 {
+    margin-left: 350px ;
+}
+#imagegraphic1 {
+    margin-left: 450px ;
+}
+h1 {
+    text-align: center ;
+}
+#image1 {
+    margin-left: 350px ;
+}
+.parallax-inner {
+
+    display: table-cell;
+    position: relative;
+    text-align: center ;
+    vertical-align: middle;
+
+}
+
+
+.menu { 
+    position:fixed;
+    background: white ;
+    top:0px;
+    margin-top: 0px ;
+    width: 100% ;
+    z-index: 10;
+}
+
+.links {
+    display: inline ;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-size: 20px ;
+}
+
+
+
+.links:hover {
+    font-size: 25px ;
+    text-decoration: underline ;
+    
+}
+html{
+    scroll-behavior: smooth ;
+    
+}
+a{
+  text-decoration: none ; 
+    color: coral ;
+    text-shadow: 2px 2px gainsboro ;
+}
+.article:hover{
+   color:cornflowerblue ; 
+}
+#myCarousel {
+    width: 1100px ;
+}
+#slidingviewhivequeen {
+    height: 400px ;
+}
